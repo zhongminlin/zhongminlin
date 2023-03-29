@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on software customization
 - 🌱 I’m currently learning Wayland
-- 👯 I’m looking to collaborate on nothing, because my repos are mostly for personal use only 
+- 👯 I’m looking to collaborate on nothing, because my repos are mostly for personal use 
 - 🤔 I’m looking for help with nothing, I RTFM
 - 💬 Ask me about whatever
-- 📫 How to reach me: zlin@pm.me
+- 📫 How to reach me: don't
 - 😄 Pronouns: It/it
 - ⚡ Fun fact: The fact that I am writing this GitHub profile is already fun enough
 
