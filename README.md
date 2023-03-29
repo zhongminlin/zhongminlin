@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with nothing, I RTFM
 - 💬 Ask me about whatever
 - 📫 How to reach me: don't
-- 😄 Pronouns: It/it
+- 😄 Pronouns: yeet/yank
 - ⚡ Fun fact: The fact that I am writing this GitHub profile is already fun enough
 
 ## ✨ Stats 
