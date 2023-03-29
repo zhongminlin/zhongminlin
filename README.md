@@ -11,8 +11,8 @@
 
 ## ✨ Stats 
 
-![Zhongmin's stats](https://github-readme-stats.vercel.app/api?username=zhongminlin&show_icons=true&theme=react&include_all_commits=true)
+![Zhongmin's stats](https://github-readme-stats.vercel.app/api?username=zhongminlin&show_icons=true&theme=github_dark&include_all_commits=true)
 
 ## ✨ Most used languages
 
-![Zhongmin's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhongminlin&theme=react&layout=compact&hide=HTML)
+![Zhongmin's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhongminlin&theme=github_dark&layout=compact&hide=HTML)
