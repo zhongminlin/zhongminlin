@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on software customization
-- 🌱 I’m currently learning Wayland compositors
+- 🌱 I’m currently learning many things
 - 👯 I’m looking to collaborate on nothing, because my repos are mostly for personal use 
 - 🤔 I’m looking for help with nothing, I RTFM
 - 💬 Ask me about whatever
