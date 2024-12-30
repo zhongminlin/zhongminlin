@@ -16,3 +16,5 @@
 ## ✨ Most used languages
 
 ![Zhongmin's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhongminlin&theme=transparent&layout=compact&hide=HTML)
+
+[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,bash,html,css,js,linux,docker)](https://skillicons.dev)
