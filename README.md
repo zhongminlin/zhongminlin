@@ -17,4 +17,4 @@
 
 ![Zhongmin's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhongminlin&theme=transparent&layout=compact&hide=HTML)
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,bash,html,css,js,linux,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,matlab,latex,html,css,js,bash,linux,docker,neovim,git,md,gcp,nginx,cloudflare&perline=8)](https://skillicons.dev)
